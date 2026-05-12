@@ -9,9 +9,16 @@ in [`privacy-policy.md`](privacy-policy.md).
 
 ---
 
-## How to request deletion
+## Request deletion
 
-**Email:** `jason.castellanos@gmail.com`
+### → [Click here to email a deletion request](mailto:jason.castellanos@gmail.com?subject=IPMN%20Compass%20data%20deletion%20request&body=Please%20delete%20my%20IPMN%20Compass%20account%20and%20all%20associated%20data.%0A%0AThe%20email%20I%20used%20to%20register%3A%20%5Byour%20email%20here%5D%0A%0AThanks.) ←
+
+The link above opens your default email composer with the request pre-filled.
+Send it from the email address you used to register your IPMN Compass
+account so we can locate and verify the account.
+
+If the one-click link doesn't open your email client, you can also email
+directly: **<jason.castellanos@gmail.com>**
 
 In your message, please include:
 
